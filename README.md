@@ -12,4 +12,7 @@ interactive Python script that analyses bikeshare data using numpy and pandas.
 chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
-udacity
+udacity 
+stackoverflow questions
+w3schools
+pandas guide

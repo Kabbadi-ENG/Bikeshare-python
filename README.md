@@ -6,7 +6,7 @@
 Exploring Bike Share Data
 
 ### Description
-interactive Python script that analyses bikeshare data using numpy and pandas.
+interactive **Python** script that analyses bikeshare data  for three cities: *Chicago, New York City, and Washington*  using **numpy** and **pandas**.
 
 ### Files used
 chicago.csv, new_york_city.csv, washington.csv
